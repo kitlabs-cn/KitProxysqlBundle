@@ -1,0 +1,2 @@
+# KitProxysqlBundle
+ProxySQL admin
